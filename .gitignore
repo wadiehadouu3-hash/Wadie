@@ -1,0 +1,5 @@
+pentest_results/
+*.html
+*.log
+*.txt
+.DS_Store
